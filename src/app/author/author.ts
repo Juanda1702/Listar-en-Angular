@@ -16,4 +16,4 @@ export class Author {
       this.image = image;
       this.description = description;
     }
- }
+}
