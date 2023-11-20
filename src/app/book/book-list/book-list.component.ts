@@ -1,4 +1,5 @@
 import { Component, OnInit } from '@angular/core';
+import { Book } from '../book';
 import { BookDetail } from '../book-detail';
 import { BookService } from '../book.service';
 
